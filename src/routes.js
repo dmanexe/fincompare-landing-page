@@ -4,7 +4,7 @@ import React from 'react'
 import { Route, IndexRoute } from 'react-router'
 import Layout from './components/Layout';
 import IndexPage from './components/IndexPage';
-import companyPage from './components/companyPage';
+import CompanyPage from './components/companyPage';
 import NotFoundPage from './components/NotFoundPage';
 
 const routes = (
